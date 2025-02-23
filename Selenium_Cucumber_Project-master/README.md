@@ -86,6 +86,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or feedback, feel free to reach out:
 
-- **Name:** Prince Raj
-- **Email:** [princeraj27janu@gmail.com](princeraj27janu@gmail.com)
+- **Name:** Ashish Dadhich
+- **Email:** ashishdadhiich@gmail.com
 
