@@ -17,7 +17,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/princu2701/Selenium_Project_Cucumber.git
+   git clone https://github.com/Selenium_Project_Cucumber.git
    ```
 
 2. **Navigate to the Project Directory:**
